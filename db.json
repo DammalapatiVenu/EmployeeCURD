@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstname": "Thomas",
+      "lastname": "Cook",
+      "birthdate": "1998-01-12",
+      "gender": "m",
+      "education": "PhD",
+      "company": "Google",
+      "jobExperience": 3,
+      "salary": 44,
+      "profile": "Profile-02.jpg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
